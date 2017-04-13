@@ -1,5 +1,5 @@
 # 2FRESH Trello
-Tento dokument shrnuje výchozí použití Trella v rámci agentury [2FRESH](http:/www.2fresh.cz/) a jejích startupů ([Costlocker](https://www.costlocker.cz) a [Atoto](https://www.atoto.cz)). Má za úkol standardizovat práci s boardy napříč veškerými týmy, aby bylo maximální souhry.
+Tento dokument shrnuje výchozí použití Trella v rámci agentury [2FRESH](http:/www.2fresh.cz/) a jejích startupů ([Costlocker](https://www.costlocker.cz) a [Atoto](https://www.atoto.cz)). Má za úkol standardizovat práci s boardy napříč veškerými týmy, aby bylo dosaženo maximální souhry.
 
 1. [Základní principy](#základní-principy)
 1. [Sloupce](#sloupce)
