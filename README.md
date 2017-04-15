@@ -91,7 +91,7 @@ Na první pohled ano. Jakmile se úkolu chopí řešitel, naše důkladnost se n
 ### `Inbox` (seznam podnětů)
 První sloupec, _Inbox_, slouží k neřízenému sběru podnětů. Jsou to nápady, které se ve výsledku ani nemusí stát reálnými úkoly, ale bylo dobré je zachytit. Příkladem mohou být nápady pro použití technologií, které ale ještě nemáte nazkoumané, takže nemůžete vytvořit skutečný úkol. Věci v _Inboxu_ zkrátka musí ještě trošku dozrát.
 
-V ideálním případě sloupec _Inbox_ nepotřebujete, protože máte pro sběr podnětů určený jiný nástroj. Například _Costlocker_ využívá různých kanálů, které ovšem všechny ve výsledku putují do aplikace [_ProductBoard_](https://www.productboard.com), kterém si určitě popovídáme v některém z dalších dílů. Výhodou pak je, že máte veškeré podklady na jednom místě nemusíte je hledat v e-mailech, _Slacku_ a podobně.
+V ideálním případě sloupec _Inbox_ nepotřebujete, protože máte pro sběr podnětů určený jiný nástroj. Například _Costlocker_ využívá různých kanálů, které ovšem všechny ve výsledku putují do aplikace [_ProductBoard_](https://www.productboard.com), o kterém si určitě popovídáme v některém z dalších dílů. Výhodou pak je, že máte veškeré podklady na jednom místě a nemusíte je hledat v e-mailech, _Slacku_ a podobně.
 
 ### `Backlog` (nadcházející úkoly)
 Sloupec _Backlog_ již obsahuje konkrétní úkoly nebo větší celky, které bude potřeba dále rozpadnout, ale počítá se s tím, že se budou dělat. V ideálním případě je _Backlog_ seřazený dle priority od nejdůležitějšího po méně důležité úkoly.
